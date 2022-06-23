@@ -1,0 +1,57 @@
+[Event "Chess tactics for students"]
+[Site "Chess Notasion"]
+[Date ""]
+[Round "Example 1"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "r5k1/5ppp/7q/8/8/3Q4/5PPP/3R2K1 w KQkq - 0 1"]
+
+{In short algebraic notation, each square on a Chess board is identified by a
+letter followed by a number. The letter identifies a file  (  column  )  , and
+the number identifies a rank  (  row  )  . Each. square is uniquely identified
+by its file letter and row number. Look at Example 1 at the left. - The White
+King is on g1; the Black King is on g8. - The White Queen is on d3; the Black
+Queen is on h6. - The White Rook is on d 1; the Black Rook is on a8. - The
+White pawns are on f2, g2. and h2; the Black pawns are on f7, g7, and h7. }  *
+
+[Event "Chess tactics for students"]
+[Site "Chess Notasion"]
+[Date ""]
+[Round "Example 2"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "r5k1/5ppp/7q/8/8/3Q4/5PPP/3R2K1 w KQkq - 0 1"]
+
+{ To identify a piece  (  except the Knight and the pawns  )  , write the first
+letter of the name of the piece. Write N to identify a Knight, and do not write
+any letter to identify a pawn. Capital letters identify pieces {K, Q, R, B, and
+ N), while lower-case letters identify squares (b2, c5, etc. ). To record a 
+move, write the letter of the piece followed by the name of the square to which
+ the piece will move. Write Qd8+ to indicate a White Queen move to d8. "+" 
+ indicates "Ch.eck." } 1. Qd8+ Rxd8 2. Rxd8#  *
+
+[Event "Chess tactics for students"]
+[Site "Chess Notasion"]
+[Date ""]
+[Round "Example 3"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "5rk1/8/8/1n6/4n3/8/1P2Q3/3K4 b KQkq - 0 1"]
+{When you can move more than one piece of the same kind to the same square, you
+ must identify the piece that is to be moved. To do this, follow the symbol of
+the piece with its file lette or row number}  *
+
+[Event "Chess tactics for students"]
+[Site "Chess Notasion"]
+[Date ""]
+[Round "Example 4"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/k1Pp4/3P4/2K5/8/8/8/8 w KQkq - 0 1"]
+{White promotes the c7 pawn to a Rook (c8 = R). White realizes it would be a 
+blunder (??) to promote to a Queen (c8=Q ??), a promotion that results in a 
+stalemate draw }  *
