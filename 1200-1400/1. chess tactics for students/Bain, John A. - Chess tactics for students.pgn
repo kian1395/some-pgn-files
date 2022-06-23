@@ -55,3 +55,53 @@ the piece with its file lette or row number}  *
 {White promotes the c7 pawn to a Rook (c8 = R). White realizes it would be a 
 blunder (??) to promote to a Queen (c8=Q ??), a promotion that results in a 
 stalemate draw }  *
+
+[Event "Chess tactics for students"]
+[Site "Ch.01 : Pins"]
+[Date ""]
+[Round "1"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "r3k2r/ppp2ppp/8/8/4q3/8/PPP2PPP/3QR1K1 b KQkq - 0 1"]
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.01 : Pins"]
+[Date ""]
+[Round "2"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "r3k2r/ppp2ppp/8/8/4q3/8/PPP2PPP/3Q1RK1 w kq - 0 1"]
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.01 : Pins"]
+[Date ""]
+[Round "3"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/5bp1/5k2/8/4R3/8/7P/7K b KQkq - 0 1"]
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.01 : Pins"]
+[Date ""]
+[Round "4"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "rnb1kb1r/ppp2ppp/2qp4/4n3/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 1"]
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.01 : Pins"]
+[Date ""]
+[Round "5"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "4r3/1p5k/p6p/2p3p1/2P1n1P1/P7/1P2R2P/2K2B2 w KQkq - 0 1"]
+ *
