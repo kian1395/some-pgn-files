@@ -105,3 +105,53 @@ stalemate draw }  *
 [Result "*"]
 [FEN "4r3/1p5k/p6p/2p3p1/2P1n1P1/P7/1P2R2P/2K2B2 w KQkq - 0 1"]
  *
+
+[Event "Chess tactics for students"]
+[Site "Ch.02 : Back Rank Combinations"]
+[Date ""]
+[Round "32"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "r3Q1k1/5ppp/7q/8/8/8/5PPP/4R1K1 b - - 0 1"]
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.02 : Back Rank Combinations"]
+[Date ""]
+[Round "33"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "r5k1/5ppp/7q/8/8/3Q4/5PPP/3R2K1 w - - 0 1"]
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.02 : Back Rank Combinations"]
+[Date ""]
+[Round "34"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "6k1/5ppp/5b2/4r3/8/2R3P1/2B2PKP/8 w - - 0 1"]
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.02 : Back Rank Combinations"]
+[Date ""]
+[Round "35"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "1q1r2k1/1r4pp/p1p5/npB5/2P5/3P1Q1P/1P3RP1/5R1K w - - 0 1"]
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.02 : Back Rank Combinations"]
+[Date ""]
+[Round "36"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "4r1k1/3Qrppp/3R4/8/8/6P1/5PKP/8 w - - 0 1"]
+ *
