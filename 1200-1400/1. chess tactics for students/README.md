@@ -73,3 +73,7 @@ Diagram 373-377 (378-403 moved to the end)
 
 Page: 210
 Diagram 404-408 (409-434 moved to the end)
+
+# Notes
+
+* Diagram 129 hould be moved from ch. 5 (Discoverd Check) to ch. 7 (Discovered Attack)
