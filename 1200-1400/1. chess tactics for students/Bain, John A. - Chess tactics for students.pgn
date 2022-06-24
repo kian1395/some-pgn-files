@@ -347,3 +347,63 @@ that results in a stalemate draw }  *
 [Setup "1"]
 
  *
+
+[Event "Chess tactics for students"]
+[Site "Ch.06 : Double Check"]
+[Date ""]
+[Round "156"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "rnbqkbnr/pp3ppp/2p5/3p4/4N3/5p2/PPPPQPPP/R1B1KB1R w KQkq - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.06 : Double Check"]
+[Date ""]
+[Round "157"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "rnbqkbnr/pp3ppp/2p5/3p4/4N3/5p2/PPPPQPPP/R1B1KB1R w KQkq - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.06 : Double Check"]
+[Date ""]
+[Round "158"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "r2qkb1r/1pp2ppp/8/3p1b2/1n1P4/2N5/PPP1BPPP/R1BQR1K1 w - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.06 : Double Check"]
+[Date ""]
+[Round "159"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "rnbk1bnr/pp3ppp/2p5/4q3/4p3/8/PPPB1PPP/2KR1BNR w - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.06 : Double Check"]
+[Date ""]
+[Round "160"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "rnb1kbnr/pp3ppp/2p5/4q3/4p3/3Q4/PPPB1PPP/2KR1BNR w kq - 0 1"]
+[Setup "1"]
+
+ *
