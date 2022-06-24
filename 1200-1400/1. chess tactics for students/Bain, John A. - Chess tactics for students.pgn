@@ -468,3 +468,62 @@ that results in a stalemate draw }  *
 
  *
 
+[Event "Chess tactics for students"]
+[Site "Ch.08 : Skewers"]
+[Date ""]
+[Round "218"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "4r3/1p6/p7/8/4k3/P7/KP6/4R3 b - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.08 : Skewers"]
+[Date ""]
+[Round "219"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "4r3/1p6/p7/8/4k3/P7/KP6/1R6 w - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.08 : Skewers"]
+[Date ""]
+[Round "220"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "6n1/2p4p/1p2k1p1/p7/3P4/2P3P1/1P3K1P/5B2 w - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.08 : Skewers"]
+[Date ""]
+[Round "221"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "6k1/pnb2p1p/1p4p1/3r4/3P3P/P3P1P1/KP3P2/1Q6 w - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.08 : Skewers"]
+[Date ""]
+[Round "222"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "1k1r3r/1pp3p1/p3R3/7p/1b6/8/PP3PPP/R1Bq1QK1 b - - 0 1"]
+[Setup "1"]
+
+ *
