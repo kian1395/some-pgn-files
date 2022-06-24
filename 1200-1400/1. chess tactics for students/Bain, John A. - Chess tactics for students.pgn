@@ -7,7 +7,7 @@
 [Result "*"]
 [FEN "r5k1/5ppp/7q/8/8/3Q4/5PPP/3R2K1 w KQkq - 0 1"]
 
-{In short algebraic notation, each square on a Chess board is identified by a
+{ In short algebraic notation, each square on a Chess board is identified by a
 letter followed by a number. The letter identifies a file  (  column  )  , and
 the number identifies a rank  (  row  )  . Each. square is uniquely identified
 by its file letter and row number. Look at Example 1 at the left. - The White
@@ -26,11 +26,11 @@ White pawns are on f2, g2. and h2; the Black pawns are on f7, g7, and h7. }  *
 
 { To identify a piece  (  except the Knight and the pawns  )  , write the first
 letter of the name of the piece. Write N to identify a Knight, and do not write
-any letter to identify a pawn. Capital letters identify pieces {K, Q, R, B, and
- N), while lower-case letters identify squares (b2, c5, etc. ). To record a 
-move, write the letter of the piece followed by the name of the square to which
- the piece will move. Write Qd8+ to indicate a White Queen move to d8. "+" 
- indicates "Ch.eck." } 1. Qd8+ Rxd8 2. Rxd8#  *
+any letter to identify a pawn. Capital letters identify pieces  {  K, Q, R, B,
+and N  )  , while lower-case letters identify squares  (  b2, c5, etc.  )  . To
+record a move, write the letter of the piece followed by the name of the square
+to which the piece will move. Write Qd8+ to indicate a White Queen move to d8.
+"+" indicates "Ch.eck." } 1. Qd8+ Rxd8 2. Rxd8#  *
 
 [Event "Chess tactics for students"]
 [Site "Chess Notasion"]
@@ -40,9 +40,10 @@ move, write the letter of the piece followed by the name of the square to which
 [Black ""]
 [Result "*"]
 [FEN "5rk1/8/8/1n6/4n3/8/1P2Q3/3K4 b KQkq - 0 1"]
-{When you can move more than one piece of the same kind to the same square, you
- must identify the piece that is to be moved. To do this, follow the symbol of
-the piece with its file lette or row number}  *
+
+{ When you can move more than one piece of the same kind to the same square, you
+must identify the piece that is to be moved. To do this, follow the symbol of
+the piece with its file lette or row number }  *
 
 [Event "Chess tactics for students"]
 [Site "Chess Notasion"]
@@ -52,9 +53,10 @@ the piece with its file lette or row number}  *
 [Black ""]
 [Result "*"]
 [FEN "8/k1Pp4/3P4/2K5/8/8/8/8 w KQkq - 0 1"]
-{White promotes the c7 pawn to a Rook (c8 = R). White realizes it would be a 
-blunder (??) to promote to a Queen (c8=Q ??), a promotion that results in a 
-stalemate draw }  *
+
+{ White promotes the c7 pawn to a Rook  (  c8 = R  )  . White realizes it would
+be a blunder  (  ??  )  to promote to a Queen  (  c8=Q ??  )  , a promotion
+that results in a stalemate draw }  *
 
 [Event "Chess tactics for students"]
 [Site "Ch.01 : Pins"]
@@ -64,6 +66,7 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "r3k2r/ppp2ppp/8/8/4q3/8/PPP2PPP/3QR1K1 b KQkq - 0 1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -74,6 +77,7 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "r3k2r/ppp2ppp/8/8/4q3/8/PPP2PPP/3Q1RK1 w kq - 0 1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -84,6 +88,7 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "8/5bp1/5k2/8/4R3/8/7P/7K b KQkq - 0 1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -94,6 +99,7 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "rnb1kb1r/ppp2ppp/2qp4/4n3/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -104,6 +110,7 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "4r3/1p5k/p6p/2p3p1/2P1n1P1/P7/1P2R2P/2K2B2 w KQkq - 0 1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -114,6 +121,7 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "r3Q1k1/5ppp/7q/8/8/8/5PPP/4R1K1 b - - 0 1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -124,6 +132,7 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "r5k1/5ppp/7q/8/8/3Q4/5PPP/3R2K1 w - - 0 1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -134,6 +143,7 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "6k1/5ppp/5b2/4r3/8/2R3P1/2B2PKP/8 w - - 0 1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -144,6 +154,7 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "1q1r2k1/1r4pp/p1p5/npB5/2P5/3P1Q1P/1P3RP1/5R1K w - - 0 1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -154,6 +165,7 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "4r1k1/3Qrppp/3R4/8/8/6P1/5PKP/8 w - - 0 1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -165,6 +177,7 @@ stalemate draw }  *
 [Result "*"]
 [FEN "8/1b6/1p1N4/4pk2/8/4K3/PP6/8 b - - 0 1"]
 [Setup "1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -176,6 +189,7 @@ stalemate draw }  *
 [Result "*"]
 [FEN "8/1b6/1p6/1N2pk2/8/4K3/PP6/8 w - - 0 1"]
 [Setup "1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -187,6 +201,7 @@ stalemate draw }  *
 [Result "*"]
 [FEN "4k3/3q2p1/8/3N4/6N1/8/8/1KR5 w - - 0 1"]
 [Setup "1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -198,6 +213,7 @@ stalemate draw }  *
 [Result "*"]
 [FEN "5bkr/5ppp/2q5/4p3/2B1P3/5N2/5PPP/5RK1 w - - 0 1"]
 [Setup "1"]
+
  *
 
 [Event "Chess tactics for students"]
@@ -208,5 +224,63 @@ stalemate draw }  *
 [Black ""]
 [Result "*"]
 [FEN "8/6k1/8/8/Q2n2q1/6N1/5P2/6K1 w - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.04 : Other Forks/Double Attacks"]
+[Date ""]
+[Round "94"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/p5n1/1r6/1p1Bkp2/5Rp1/1P6/PK3PP1/8 w - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.04 : Other Forks/Double Attacks"]
+[Date ""]
+[Round "95"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/p5n1/1r3k2/1p1B1p2/5Rp1/1P6/PK3PP1/8 b - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.04 : Other Forks/Double Attacks"]
+[Date ""]
+[Round "96"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "3k4/8/8/2n1b3/8/4P3/3P4/3K4 w - - 0 1"]
+[Setup "1"]
+*
+
+[Event "Chess tactics for students"]
+[Site "Ch.04 : Other Forks/Double Attacks"]
+[Date ""]
+[Round "97"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/n2k3p/5rp1/5p2/7P/5NP1/5PK1/1R6 w - - 0 1"]
+[Setup "1"]
+*
+
+[Event "Chess tactics for students"]
+[Site "Ch.04 : Other Forks/Double Attacks"]
+[Date ""]
+[Round "98"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "6k1/p1pp1ppp/1b6/p3n3/2P5/2NPP3/P4PPP/B5K1 w - - 0 1"]
 [Setup "1"]
  *
