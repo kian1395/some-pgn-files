@@ -768,3 +768,63 @@ that results in a stalemate draw }  *
 
  *
 
+[Event "Chess tactics for students"]
+[Site "Ch.13 : Zugzwang/Stalemate"]
+[Date ""]
+[Round "373"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "3k4/8/4K3/8/8/2R5/8/8 w - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.13 : Zugzwang/Stalemate"]
+[Date ""]
+[Round "374"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "1R1bk3/8/4K3/8/8/8/8/8 w - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.13 : Zugzwang/Stalemate"]
+[Date ""]
+[Round "375"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/8/8/8/8/1k4q1/8/2KR4 w - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.13 : Zugzwang/Stalemate"]
+[Date ""]
+[Round "376"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "8/5p2/4p1k1/3pP2p/3P3K/5NPP/8/2b5 b - - 0 1"]
+[Setup "1"]
+
+ *
+
+[Event "Chess tactics for students"]
+[Site "Ch.13 : Zugzwang/Stalemate"]
+[Date ""]
+[Round "377"]
+[White ""]
+[Black ""]
+[Result "*"]
+[FEN "k7/p7/K2B4/PP1n4/8/8/8/8 b - - 0 1"]
+[Setup "1"]
+
+ *
+
