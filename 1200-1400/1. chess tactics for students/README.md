@@ -20,3 +20,4 @@
 ## Notes
 
 * Diagram 129 hould be moved from ch. 5 (Discoverd Check) to ch. 7 (Discovered Attack)
+* Diagram 6 and 11 are the same.
