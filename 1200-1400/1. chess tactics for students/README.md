@@ -19,5 +19,7 @@
 
 ## Notes
 
-* Diagram 129 hould be moved from ch. 5 (Discoverd Check) to ch. 7 (Discovered Attack)
+* Diagram 129 should be moved from ch. 5 (Discoverd Check) to ch. 7 (Discovered Attack)
 * Diagram 6 and 11 are the same.
+* Diagram 103 can be double-threats, if queen goes c2 then can treat a king-mate at g6 and winning bishop at c5
+
